@@ -1,0 +1,177 @@
+﻿id_db,name_db,origin_db,formula_db,mz_db
+TER-CHC-001,R-CEdG,"exogenous genotoxicants, base",C13H17N5O6,340.12516
+TER-CHC-002,S-CEdG,"exogenous genotoxicants, base",C13H17N5O6,340.12516
+TUR-UMN-001,dG-C8-PhIP,"exogenous genotoxicants, dNs",C23H23N9O4,490.19458
+TUR-UMN-002,dG-C8-4-ABP,"exogenous genotoxicants, dNs",C22H22N6O4,435.17753
+TUR-UMN-003,dG-C8-AaC,"exogenous genotoxicants, dNs",C21H20N8O4,449.16803
+TUR-UMN-004,dG-C8-IQ,"exogenous genotoxicants, dNs",C21H21N9O4,464.17893
+TUR-UMN-005,dG-C8-MeIQx,"exogenous genotoxicants, dNs",C21H22N10O4,479.18983
+TUR-UMN-006,dG-N2-BPDE,"exogenous genotoxicants, dNs",C30H27N5O7,570.19832
+TUR-UMN-007,dG-HNE,"endogenous electrophiles, dNs",C19H29N5O6,424.21906
+TUR-UMN-008,O6-Me-dG,"endogenous electrophiles, dNs",C11H15N5O4,282.11968
+TUR-UMN-009,O6-CM-dG,"exogenous genotoxicants, dNs",C12H15N5O6,326.10951
+TUR-UMN-010,M1dG,"endogenous electrophiles, dNs",C13H13N5O4,304.10403
+TUR-UMN-011,oxo-M1dG,"endogenous electrophiles, dNs",C13H13N5O5,320.09895
+SAB-IEO-001,dG-C8-2-CA,"exogenous genotoxicants, dNs",C16H17ClN6O4,393.10726
+SAB-IEO-002,dG-C8-4-CA,"exogenous genotoxicants, dNs",C16H17ClN6O4,393.10726
+SAB-IEO-003,"dG-C8-2,4-DMA","exogenous genotoxicants, dNs",C18H22N6O4,387.17753
+SAB-IEO-004,"dG-C8-2,6-DMA","exogenous genotoxicants, dNs",C18H22N6O4,387.17753
+SAB-IEO-005,dG-C8-2-MA,"exogenous genotoxicants, dNs",C17H20N6O4,373.16188
+TUR-UMN-012,dG-C8-2NA,"exogenous genotoxicants, dNs",C20H20N6O4,409.16188
+TUR-UMN-013,dG-N2-2NA,"exogenous genotoxicants, dNs",C20H20N6O4,409.16188
+TUR-UMN-014,dA-N6-2NA,"exogenous genotoxicants, dNs",C20H20N6O3,393.16696
+TUR-UMN-015,dA-AL-I,"exogenous genotoxicants, dNs",C27H22N6O7,543.16227
+TUR-UMN-016,dA-AL-II,"exogenous genotoxicants, dNs",C26H20N6O6,513.15171
+TUR-UMN-017,dG-AL-I,"exogenous genotoxicants, dNs",C27H22N6O8,559.15719
+TUR-UMN-018,dG-AL-II,"exogenous genotoxicants, dNs",C26H20N6O7,529.14662
+BAL-UMN-001,N6-Ethyl-dA,"alkylation, dNs",C12H17N5O3,280.14042
+BAL-UMN-003,N4-Ethyl-dC,"alkylation, dNs",C11H17N3O4,256.12918
+BAL-UMN-005,N2-Ethyl-2'-dG,"alkylation, dNs",C12H17N5O4,296.13533
+HEC-UMN-001,ƴ-OHPdG,"endogenous electrophiles, dNs",C13H17N5O5,324.13025
+HEC-UMN-002,α-OHPdG,"endogenous electrophiles, dNs",C13H17N5O5,324.13025
+HEC-UMN-004,O6-POB-dG,"exogenous genotoxicants, dNs",C19H22N6O5,415.17244
+HEC-UMN-005,N6-Me-dA,"endogenous electrophiles, dNs",C11H15N5O3,266.12477
+HEC-UMN-006,N7-PHB-G,"exogenous genotoxicants, base",C14H16N6O2,301.14075
+HEC-UMN-007,O2-PHB-dT,"exogenous genotoxicants, dNs",C19H26N3O6,392.18161
+HEC-UMN-009,N7-Et-G,"endogenous electrophiles, base",C7H9N5O,180.08799
+HEC-UMN-010,N7-CE-dG,"exogenous genotoxicants, base",C8H9N5O3,340.12516
+HEC-UMN-011,N2-(S)-CE-dG,"exogenous genotoxicants, dNs",C13H17N5O6,340.12516
+HEC-UMN-012,R-pro-dG,,C13H17N5O4,308.13533
+HEC-UMN-013,S-pro-dG,,C13H17N5O4,308.13533
+HEC-UMN-012x,R-pro-dG,"endogenous electrophiles, dNs",C14H19N4O5,338.1459
+HEC-UMN-013x,S-pro-dG,"endogenous electrophiles, dNs",C14H19N4O5,338.1459
+VAN-GUX-001,3-MeA,"endogenous electrophiles, base",C6H7N5,150.07742
+VAN-GUX-003,M1G ,"endogenous electrophiles, base",C8H5N5O,188.05669
+VAN-GUX-004,7-MeG,"endogenous electrophiles, base",C6H7N5O,166.07234
+VAN-GUX-005,3-MeG,"endogenous electrophiles, base",C6H7N5O,166.07234
+VAN-GUX-006,O6-MeG,"endogenous electrophiles, base",C6H7N5O,166.07234
+OLI-NCU-001,N6-Me-Adenosine,"Epigenome, RNA",C11H15N5O4,282.11968
+OLI-NCU-002,N(6)-OH-Me-Adenosine,"Oxidation, RNA",C11H15N5O5,298.1146
+OLI-NCU-003,N6-formyl-Adenosine,"Oxidation, RNA",C11H13N5O5,296.09895
+OLI-NCU-004,5-Methyl-Cytidine,"Epigenome, RNA",C10H15N3O5,258.10845
+OLI-NCU-005,5-OH-Me-Cytidine,"Oxidation, RNA",C10H15N3O6,274.10336
+OLI-NCU-006,5-Formyl-Cytidine,"Oxidation, RNA",C10H13N3O6,272.08771
+OLI-NCU-007,5-Methyl-Uridine,"Epigenome, RNA",C10H14N2O6,259.09246
+OLI-NCU-008,5-OH-Me-Uridine,"Oxidation, RNA",C10H14N2O7,275.08738
+OLI-NCU-009,N6-Me-dA,"endogenous electrophiles, dNs",C11H15N5O3,266.12477
+OLI-NCU-010,5-Me-dC,"Epigenome, dNs",C10H15N3O4,242.11353
+OLI-NCU-011,5-OH-Me-dC,"Oxidation, dNs",C10H15N3O5,258.10845
+OLI-NCU-012,5-formyl-dC,"Oxidation, dNs",C10H13N3O5,256.0928
+OLI-NCU-013,5-carboxy-dC-Na,"Oxidation, dNs",C10H13N3O6,272.08771
+OLI-NCU-014,8-OH-dG,"Oxidation, dNs",C10H13N5O5,284.09895
+OLI-NCU-015,2'-Deoxyuridine,"Others, dNs",C9H12N2O5,229.0819
+OLI-NCU-016,5-Hydroxymethyl-2'-deoxyuridine,"Oxidation, dNs",C10H14N2O6,259.09246
+OLI-NCU-017,5-Methylcytosine,"Epigenome, base",C5H7N3O,126.06619
+OLI-NCU-018,5-Hydroxymethylcytosine,"Oxidation, base",C5H7N3O2,142.0611
+OLI-NCU-019,5-Formylcytosine,"Oxidation, base",C5H5N3O2,140.04545
+OLI-NCU-020,5-carboxycytosine,"Oxidation, base",C5H5N3O3,156.04037
+OLI-NCU-021,8-Hydroxyguanine,"Oxidation, base",C5H5N5O2,168.0516
+OLI-NCU-022,5-Hydroxymethyluracil,"Oxidation, base",C5H6N2O3,143.04512
+OLI-NCU-023,5-Formyluracil,"Oxidation, base",C5H4N2O3,141.02947
+OLI-NCU-024,5-Carboxyuracil,"Oxidation, base",C5H4N2O4,157.02438
+ROG-UNE-001,2-OHE2-6-N3Ade,"Others, base",C23H27N5O3,422.21867
+ROG-UNE-002,2-OHE1-6-N3Ade,"Others, base",C23H25N5O3,420.20302
+ROG-UNE-003,4-OHE2-1-N3Ade,"Others, base",C23H27N5O3,422.21867
+ROG-UNE-004,4-OHE1-1-N3Ade,"Others, base",C23H25N5O3,420.20302
+ROG-UNE-005,4-OHE2-1-N7Gua,"Others, base",C23H27N5O4,438.21358
+ROG-UNE-006,4-OHE1-1-N7Gua,"Others, base",C23H25N5O4,436.19793
+HEC-UMN-014,N2-POB-dG isomer,"exogenous genotoxicants, dNs",C19H22N6O5,415.17244
+HEC-UMN-015,N6-POB-dA,"exogenous genotoxicants, dNs",C19H22N6O4,399.17753
+HEC-UMN-016,N6-PHB-dA,"exogenous genotoxicants, dNs",C19H24N6O4,401.19318
+HEC-UMN-017,N2-POB-dG,"exogenous genotoxicants, dNs",C19H22N6O5,415.17244
+HEC-UMN-029,N1-POB-dIno,"exogenous genotoxicants, dNs",C19H21N5O5,400.16155
+HEC-UMN-030,N1-PHB-dIno,"exogenous genotoxicants, dNs",C19H23N5O5,402.1772
+WAG-UDS-001,5OHdC,"Oxidation, dNs",C9H13N3O5,244.0928
+WAG-UDS-002,5OHdU,"Oxidation, dNs",C9H12N2O6,245.07681
+WAG-UDS-003,5OH-MedC,"Epigenome, dNs",C10H15N3O5,258.10845
+WAG-UDS-004,5OH-M-dCdU,"Epigenome, dNs",C10H14N2O6,259.09246
+WAG-UDS-005,5fdC,"Epigenome, dNs",C10H13N3O5,256.0928
+WAG-UDS-006,5fdU,"Epigenome, dNs",C10H12N2O6,257.07681
+WAG-UDS-007,Gly-dT,"Oxidation, dNs",C10H16N2O7,277.10303
+WAG-UDS-008,Gly-dU,"Oxidation, dNs",C9H14N2O7,263.08738
+WAG-UDS-009,Hyd-dT,"Oxidation, dNs",C9H14N2O6,247.09246
+WAG-UDS-010,Imid-dC,"Oxidation, dNs",C9H15N3O7,278.09828
+WAG-UDS-011,Imid-mdC,"Oxidation, dNs",C10H17N3O7,292.11393
+TOT-NCC-001,dG-C8-APNH,"exogenous genotoxicants, dNs",C27H24N8O4,525.19933
+TOT-NCC-002,dG-C8-AMPNH,"exogenous genotoxicants, dNs",C28H26N8O4,539.21498
+KAN-YCU-001,"N-dG-8-2,6-DMA","exogenous genotoxicants, dNs",C18H22N6O4,387.17753
+KAN-YCU-002,"4-dG-O6-2,6-DMA","exogenous genotoxicants, dNs",C18H22N6O4,387.17753
+TUR-UMN-019,O6-ethyl-guanine,"alkylation, base", C7H9N5O,180.08799
+MON-FIR-001,N2-MF-dG,"exogenous genotoxicants, dNs",C15H17N5O5,348.1302
+MON-FIR-002,N6-MF-dA,"exogenous genotoxicants, dNs",C15H17N5O4,332.1353
+MON-FIR-003,N6-MFF-dA,"exogenous genotoxicants, dNs",C16H17N5O5,360.1302
+MON-FIR-004,N2-MP-dG,"exogenous genotoxicants, dNs",C27H23N5O4,482.1823
+SCH-FIR-001,N6-MIM-dA,"exogenous genotoxicants, dNs",C20H22N6O4,411.1775
+HER-FIR-001,N6-MIE-dA,"exogenous genotoxicants, dNs",C21H25N5O5,428.1928
+HER-FIR-002,N2-MIE-dG,"exogenous genotoxicants, dNs",C21H25N5O6,444.1878
+AND-UPX-001,8-oxo-Guo,"Oxidation, base",C10H13N5O6,
+AND-UPX-002,5-Me-Cyto,"Epigenome, base",C5H8ClN3O/C5H7N3O,126.0662
+AND-UPX-003,5-Me-Cyt,"Epigenome, RNA",C10H15N3O5,
+AND-UPX-004,5mdC,"Epigenome, dNs",C10H15N3O4,242.1135
+AND-UPX-005,5-OHMe-Cyto,"Epigenome, base",C5H7N3O2,142.0611
+AND-UPX-006,1-Me-Gua,"endogenous electrophiles, base",C6H7N5O,166.0723
+AND-UPX-007,7-Me-Gua,"endogenous electrophiles, base",C6H7N5O,
+AND-UPX-008,9-Me-Gua,"endogenous electrophiles, base",C6H7N5O,166.0723
+AND-UPX-009,O-Me-Gua,"endogenous electrophiles, base",C6H7N5O,
+AND-UPX-010,7-Me-Guo,"endogenous electrophiles, base",C11H16N5O5+,298.1146
+AND-UPX-011,5-OHMe-Ur,"Oxidation, base",C5H6N2O3,143.0451
+AND-UPX-012,5-OHMe-dCyt,"Oxidation, dNs",C10H15N3O5,
+WAN-UCR-001,O2-MedT,"alkylation, dNs",C11H16N2O5,257.1132
+WAN-UCR-002,O2-EtdT,"alkylation, dNs",C12H18N2O5,271.1288
+WAN-UCR-003,O2-nPrdT,"alkylation, dNs",C13H20N2O5,285.1445
+WAN-UCR-004,O2-iPrdT,"alkylation, dNs",C13H20N2O5,285.1445
+WAN-UCR-005,O2-nBudT,"alkylation, dNs",C14H22N2O5,299.1601
+WAN-UCR-006,O4-MedT,"alkylation, dNs",C11H16N2O5,257.1132
+WAN-UCR-007,O4-EtdT,"alkylation, dNs",C12H18N2O5,271.1288
+WAN-UCR-008,O4-nPrdT,"alkylation, dNs",C13H20N2O5,285.1445
+WAN-UCR-009,O4-iPrdT,"alkylation, dNs",C13H20N2O5,285.1445
+WAN-UCR-010,O4-nBudT,"alkylation, dNs",C14H22N2O5,299.1601
+TUR-UMN-020,etheno-dA,"endogenous electrophiles, dNs",C12H13N5O3,276.10912
+TUR-UMN-021,etheno-dG,"endogenous electrophiles, dNs",C12H13N5O4,292.104
+TUR-UMN-022,etheno-dC,"endogenous electrophiles, dNs",C11H13N3O4,252.09788
+TUR-UMN-023,dA-ONE,"endogenous electrophiles, dNs",C19H25N5O4,388.1979
+TUR-UMN-024,dG-ONE,"endogenous electrophiles, dNs",C19H25N5O5,404.1928
+TUR-UMN-025,dC-ONE,"endogenous electrophiles, dNs",C18H25N3O5,364.1867
+TUR-UMN-026,8-OH-PdG,"endogenous electrophiles, dNs",C13H17N5O5,324.1302
+TUR-UMN-027,6-OH-PdG,"endogenous electrophiles, dNs",C13H17N5O5,324.1302
+DED-MIT-001,dI,"Others, dNs",C10H12N4O4,253.0931
+DED-MIT-002,8-oxo-dG,"Oxidation, dNs",C10H13N5O5,
+DED-MIT-003,Etheno-dA,"endogenous electrophiles, dNs",C12H13N5O3,
+DED-MIT-004,Sp,"Oxidation, base",C5H5N5O3,184.0465
+DED-MIT-005,N6-M-dA,"endogenous electrophiles, dNs",C11H15N5O3 ,
+DED-MIT-006,5-OH-dU,"Oxidation, dNs",C9H12N2O6 ,245.07681
+DED-MIT-007,5-HM-dU,"Oxidation, dNs",C10H14N2O6 ,259.09246
+DED-MIT-008,5-OH-dC,"Oxidation, dNs",C9H13N3O5 ,
+DED-MIT-009,5-HM-dC,"Oxidation, dNs",C10H15N3O5 ,
+DED-MIT-010,6-S-dG ,"Oxidation, dNs",C10H13N5O3S ,284.0812
+DED-MIT-011,7-Deaza-dX,"Oxidation, dNs",C11H13N3O5 ,268.0928
+DED-MIT-012,5-F-dC      ,"Epigenome, dNs",C10H13N3O5 ,
+HEC-UMN-031,N6-HPB-dAdo,"exogenous genotoxicants, dNs",C19H24N6O4,401.1932
+HEC-UMN-032,N6-Py-THF-dAdo,"exogenous genotoxicants, dNs",C19H22N6O4,399.1775
+HEC-UMN-033,Py-Py(OH)-dN,"exogenous genotoxicants, dNs",C19H22N6O4,399.1775
+HEC-UMN-034,Py-Py-dN,"exogenous genotoxicants, dNs",C19H22N6O3,383.1826
+HEC-UMN-035,3-POB-Thd,"exogenous genotoxicants, dNs",C19H23N3O6,390.166
+HEC-UMN-036,3-PHB-Thd,"exogenous genotoxicants, dNs",C19H25N3O6,392.1816
+HEC-UMN-037,O4-POB-Thd,"exogenous genotoxicants, dNs",C19H23N3O6,390.166
+HEC-UMN-038,O4-PHB-Thd,"exogenous genotoxicants, dNs",C19H25N3O6,392.1816
+HEC-UMN-039,Cp(POB)C,"exogenous genotoxicants, phos",C27H34N7O11P,664.2127
+HEC-UMN-040,Cp(PHB)C,"exogenous genotoxicants, phos",C27H36N7O11P,666.2283
+HEC-UMN-041,Tp(POB)T,"exogenous genotoxicants, phos",C29H36N5O13P,694.212
+HEC-UMN-042,Tp(PHB)T,"exogenous genotoxicants, phos",C29H38N5O13P,696.2276
+HEC-UMN-043,Tp(Me)T,"exogenous genotoxicants, phos",C21H29N4O12P,561.1592
+TUR-UMN-028,BQ-dC,"exogenous genotoxicants, dNs",C15H15N3O5,318.1084
+TUR-UMN-029,BQ-dA,"exogenous genotoxicants, dNs",C16H15N5O4,342.1197
+TUR-UMN-030,BQ-C,"exogenous genotoxicants, base",,
+TUR-UMN-030x,BQ-dG,,C16H15N5O5,
+TUR-UMN-031,BQ-A,"exogenous genotoxicants, base",,
+KAS-UOE-001,4-oxo-2-hexenal-dG adduct,"endogenous electrophiles, dNs",C16H19N5O5,362.1459
+KAS-UOE-002,4-oxo-2-hexenal-dC adduct,"endogenous electrophiles, dNs",C15H19N3O5,322.1397
+KAS-UOE-003,4-oxo-2-hexenal-5-methyl-dC adduct,"endogenous electrophiles, dNs",C16H21N3O5,336.1554
+KAS-UOE-004,"2,3-epoxyoctenal-dA adduct","endogenous electrophiles, dNs",C18H25N5O4,376.1979
+KAS-UOE-005,"2,3-epoxyoctenal-dC adduct 1","endogenous electrophiles, dNs",C17H23N3O5,350.171
+KAS-UOE-006,"2,3-epoxyoctenal-dC adduct 2","endogenous electrophiles, dNs",C17H25N3O5,352.1867
+KAS-UOE-007,"2,3-epoxyoctenal-dC adduct 3","endogenous electrophiles, dNs",C17H25N3O5,352.1867
+KAS-UOE-008,8-methyl-dG,"endogenous electrophiles, dNs",C11H15N5O4,282.1197
+KAS-UOE-009,8-methyl-dA,"endogenous electrophiles, dNs",C11H15N5O3,266.1248
+VAN-GUX-007,O6-MeG-d3 ,,C6H4D3N5O,
+VAN-GUX-002,8-OH- G 5’-TP,,C10H16N5O15P3,
